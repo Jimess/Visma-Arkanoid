@@ -1,2 +1,2 @@
 # Visma-Arkanoid
-Arkanoid Game for Vism
+Arkanoid Game for Visma
